@@ -4,7 +4,7 @@ function colorList=slanCM(type,num)
 % type : type of colorbar
 % num  : number of colors
 if nargin<2
-    num=256;
+    num=256; 
 end
 if nargin<1
     type='';
