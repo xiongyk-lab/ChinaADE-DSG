@@ -1,7 +1,7 @@
 tic
 clear
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Loading data
+%% Loading data 
 load('input\subTotalEne.dat','-mat')
 load('input\FuEn.dat','-mat')
 load('input\FuEnwAI.dat','-mat')
