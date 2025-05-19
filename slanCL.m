@@ -2,7 +2,7 @@ function colorList=slanCL(type,num)
 % type : type of color list
 % num  : number of colors
 if nargin<2
-    num=[];
+    num=[]; 
 end
 if nargin<1
     type=1;
